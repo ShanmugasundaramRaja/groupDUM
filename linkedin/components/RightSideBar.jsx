@@ -53,7 +53,7 @@ const RightSideBar = () => {
 
                                 
                                 <div className="profile-title">
-                                    Strive Student
+                                    Epicode Student
                                 </div>
 
                                
@@ -80,7 +80,7 @@ const RightSideBar = () => {
 
                                 
                                 <div className="profile-title">
-                                    Strive Student
+                                    Epicode Student
                                 </div>
 
                                
