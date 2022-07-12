@@ -1,6 +1,6 @@
 import { Col, Container, Row } from "react-bootstrap"
-import LeftSideBarCardProfile from "../leftSideBarHome/LeftSideBarCardProfile"
-import RightSideBar from "../rightSideBarHome/RightSideBar"
+import LeftSideBarCardProfile from "./LeftSideBarCardProfile"
+import RightSideBar from "./RightSideBar"
 
 
 const Home = () => {
